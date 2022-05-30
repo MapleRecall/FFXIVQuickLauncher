@@ -1,3 +1,2 @@
-﻿• Fixed various cases wherein the game could not start correctly
-• Updated the localization files
-    => Big thanks to all volunteer translators!
+﻿• 安装程序正确处理带空格的路径
+• 修复某些情况下二维码窗口不弹出
